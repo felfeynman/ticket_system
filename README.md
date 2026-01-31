@@ -82,7 +82,6 @@ cp .env.example .env
 php artisan key:generate
 
 # Criar banco SQLite
-mkdir -p database
 touch database/database.sqlite
 
 # Rodar migrations
