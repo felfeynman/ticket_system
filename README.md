@@ -118,7 +118,6 @@ php artisan test
 ## Observações
 
 - O frontend consome exclusivamente a API via AJAX
-- O projeto foi desenvolvido priorizando **clareza, organização e entrega dentro do prazo**
 - Algumas validações visuais e mensagens de erro podem ser aprimoradas
 
 ---
